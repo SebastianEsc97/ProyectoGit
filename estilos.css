@@ -2,7 +2,9 @@ h1{
     color:blue;
     font-size: medium;
 }
-h2{
-    color:chartreuse
+
+.tarea{
+    color:chartreuse;
     font-size: medium;
+    font: arial;
 }
